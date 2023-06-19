@@ -20,16 +20,6 @@
 | Devops & Others  |  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>      <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a>  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> |
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=milanbhojani&show_icons=true&locale=en&layout=compact" alt="milanbhojani" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milanbhojani&show_icons=true&locale=en" alt="milanbhojani" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milanbhojani&" alt="milanbhojani" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=milanbhojani&label=Profile%20views&color=0e75b6&style=flat" alt="milanbhojani" /> </p>
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=milanbhojani&theme=city_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=milanbhojani&theme=city_light&hide_border=false)<br/>
