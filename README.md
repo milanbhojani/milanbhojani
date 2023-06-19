@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Milan Bhojani</h1>
 <h3 align="center">Enthusiastic Trainee Developer (MERN Stack)</h3>
-<h5>I'm positive, innovative, results-driven person, who takes pride in the ability to effectively combine workplace objectives with personal and professional goals. Adept at solving various technical problems with practical solutions using various types of computer software and Enjoys working with a team to overcome obstacles and challenge</h5>
+<h5 align="justify">I'm positive, innovative, results-driven person, who takes pride in the ability to effectively combine workplace objectives with personal and professional goals. Adept at solving various technical problems with practical solutions using various types of computer software and Enjoys working with a team to overcome obstacles and challenge</h5>
 
 - 🔭 I’m currently working on [Chefe](http://thechefe.com/)
 
