@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning *MERN stack development*
 
-- 👨‍💻 All of my projects are available at [https://github.com/milanbhojani](https://github.com/milanbhojani)
+- 👨‍💻 All of my projects are available at [https://github.com/milanbhojani](https://github.com/milanbhojani?tab=repositories)
 
 - 📫 How to reach me *milanbhojani2002@gmail.com*
   
