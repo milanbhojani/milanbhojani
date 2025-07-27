@@ -1,20 +1,73 @@
-<h1 align="center">Hi 👋, I'm Milan Bhojani</h1>
-<h3 align="center">Trainee Developer (MERN Stack)</h3>
-<h5 align="justify">I'm positive, innovative, results-driven person, who takes pride in the ability to effectively combine workplace objectives with personal and professional goals. Adept at solving various technical problems with practical solutions using various types of computer software and Enjoys working with a team to overcome obstacles and challenge</h5>
+# 👋 Hi, I'm Milan Bhojani
 
+**Web Developer | MERN Stack | Microfrontend Enthusiast | CI/CD Automation | Cloud Integration**
 
-- 👨‍💻 All of my projects are available at [https://github.com/milanbhojani](https://github.com/milanbhojani?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://linkedin.com/in/milan-bhojani-889777234)](https://linkedin.com/in/milan-bhojani-889777234)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github&link=https://github.com/milanbhojani)](https://github.com/milanbhojani)
 
-- 📫 How to reach me *milanbhojani2002@gmail.com*
-  
-# 💻 Tech Stack:
-| Technology     | Name |
-| ---      | ---       |
-| MERN Stack | <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>  </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>         |
-| DataBase     | <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> |
-| Frontend  | <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>    |
-| Devops  |         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> |
+---
 
+I'm a passionate **Web Developer** with over **2 years of hands-on experience** in building full-stack applications using the **MERN stack**. I specialize in crafting responsive, high-performance UIs and scalable backends, with expertise in **CI/CD pipelines**, **microfrontend architecture**, and **Google Cloud API integrations**.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=milanbhojani&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
+
+## 🧠 Skills
+
+- **Frontend:** React.js, JavaScript, HTML, CSS
+- **Backend:** Node.js, Express.js, GraphQL
+- **Database:** MongoDB
+- **Tools & DevOps:** Git, GitHub Actions, GitLab CI/CD, Google Cloud Console, Postman
+- **Architecture:** Microfrontend
+- **Other:** Figma to Code Conversion, Performance Optimization
+
+---
+
+## 💼 Experience
+
+### 🚀 Zechrome Technologies (2023–Present)
+- Built dynamic, responsive UIs from Figma designs using React.
+- Developed and maintained CI/CD pipelines for production deployment.
+- Worked on **microfrontend-based** architecture for modular web apps.
+
+### 🌍 CHEFE (Portugal – Remote | 2024)
+- Contributed to UI development for a social food-sharing platform.
+- Participated in startup pitching events (Web Summit, Djassi Africa).
+- Automated deployments with CI/CD and improved app performance.
+
+---
+
+## 🛠️ Projects
+
+### 🔹 [Phelix.ai](https://www.phelix.ai/)
+> **Role:** Frontend Developer | **Tech:** React.js, Microfrontend, GitHub Actions
+- Built healthcare UI components and deployed via CI/CD.
+- Contributed to UI/UX consistency across complex modules.
+
+### 🔹 SEO Gets *(Client Project)*
+> **Role:** Backend Developer | **Tech:** Node.js, MongoDB, Google Cloud Console
+- Developed APIs to fetch SEO performance data from GSC.
+- Handled OAuth2, team collaboration, and data sync integrations.
+
+### 🔹 [The Chefe](https://thechefe.com/)
+> **Role:** Full Stack Contributor | **Tech:** MERN
+- Developed a responsive social platform to reduce food waste.
+- Pitched to investors and managed release versioning.
+
+---
+
+## 🎓 Education
+
+- **B.Tech in Computer Engineering** – Charotar University – 7.96 CGPI
+- **Diploma in Computer Engineering** – GTU – 9.59 CGPI
+
+---
+
+## 📫 Get in Touch
+
+- **📧 Email:** milanbhojani2002@gmail.com
+- **🔗 Portfolio/GitHub:** [github.com/milanbhojani](https://github.com/milanbhojani)
+- **💼 LinkedIn:** [linkedin.com/in/milan-bhojani-889777234](https://linkedin.com/in/milan-bhojani-889777234)
+
+---
+
+_Thanks for visiting! Feel free to connect and collaborate on exciting projects._ 🚀
