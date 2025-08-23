@@ -14,20 +14,12 @@ I'm a passionate **Full-Stack Developer** with **5+ years of experience** in bui
 
 ## 🧰 Skills
 
-### Frontend
-React.js | JavaScript | HTML | CSS | Tailwind | Bootstrap | MUI
-
-### Backend
-Node.js | Express.js | GraphQL
-
-### Databases
-MongoDB | SQL | PostgreSQL
-
-### Tools & DevOps
-Git | GitHub Actions | GitLab CI/CD | Google Cloud Console | Postman
-
-### Architecture & Design
-Microfrontend | RAG Architecture | Figma to Code Conversion | Performance Optimization
+- **Frontend:** React.js, JavaScript, HTML, CSS, Bootstrap, MUI, Tailwind
+- **Backend:** Node.js, Express.js, GraphQL
+- **Database:** MongoDB, SQL, Postgres
+- **Tools & DevOps:** Git, GitHub Actions, GitLab CI/CD, Google Cloud Console, Postman
+- **Architecture:** Microfrontend, RAG
+- **Other:** Figma to Code Conversion, Performance Optimization
 
 ---
 
