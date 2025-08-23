@@ -47,14 +47,12 @@ I'm a passionate **Web Developer** with over **5+ years of hands-on experience**
 ---
 
 ## 🎓 Education
-
 - **B.Tech in Computer Engineering** – Charotar University – 8. CGPI
 - **Diploma in Computer Engineering** – GTU – 9.3 CGPI
 
 ---
 
 ## 📫 Get in Touch
-
 - **🔗 Portfolio:** [Vision Ananta](https://www.visionananta.com/)
 - **🔗 GitHub:** [github.com/milanbhojani](https://github.com/milanbhojani)
 
