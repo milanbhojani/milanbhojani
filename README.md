@@ -26,7 +26,7 @@ I'm a passionate **Web Developer** with over **5+ years of hands-on experience**
 
 ### AI-Powered WhatsApp Business Agent [03/2023 - 08/2025]
 > **Role:** Full Stack Developer | **Tech:** React Js, RAG Architecture, Postgrey, LLM Models
--Developed an AI-powered WhatsApp agent that analyzes incoming messages and generates natural, context-aware replies in the user’s tone and language using Flowise and n8n, with Qdrant and PostgreSQL for data management
+- Developed an AI-powered WhatsApp agent that analyzes incoming messages and generates natural, context-aware replies in the user’s tone and language using Flowise and n8n, with Qdrant and PostgreSQL for data management
 
 ### SEO Dashboard [02/2025 - 05/2025]
 > **Role:** Backend Developer | **Tech:** Node.js, MongoDB, Google Cloud Console
