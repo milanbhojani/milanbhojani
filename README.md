@@ -24,23 +24,23 @@ I'm a passionate **Web Developer** with over **5+ years of hands-on experience**
 
 ## 🛠️ Projects
 
-### 🔹 [AI-Powered WhatsApp Business Agent] (03/2023 - 08/2025)
+### AI-Powered WhatsApp Business Agent [03/2023 - 08/2025]
 > **Role:** Full Stack Developer | **Tech:** React Js, RAG Architecture, Postgrey, LLM Models
 -Developed an AI-powered WhatsApp agent that analyzes incoming messages and generates natural, context-aware replies in the user’s tone and language using Flowise and n8n, with Qdrant and PostgreSQL for data management
 
-### 🔹 SEO Dashboard (02/2025 - 05/2025)
+### SEO Dashboard [02/2025 - 05/2025]
 > **Role:** Backend Developer | **Tech:** Node.js, MongoDB, Google Cloud Console
 - Developed APIs to fetch SEO performance data from GSC and Handled OAuth2, team collaboration, and data sync integrations.
 
-### 🔹 [Phelix.ai](11/2024 - 1/2025)
+### Phelix.ai [11/2024 - 1/2025]
 > **Role:** Frontend Developer | **Tech:** React.js, Microfrontend, GitHub Actions
 - Built healthcare UI components and deployed via CI/CD and Contributed to UI/UX consistency across complex modules.
   
-### 🔹 [The Chefe Social Media Platform](11/2023 - 12/2024)
+### The Chefe Social Media Platform [11/2023 - 12/2024]
 > **Role:** Full Stack Contributor | **Tech:** MERN
 - Built a food-sharing platform that matches users with personalized free or low-cost food based on diet, mood, and location promoting food safety, reducing waste, and encouraging community impact.
 
-### 🔹 [Freelance Full Stack Developer](06/2020 - 10/2023)
+### Freelance Full Stack Developer [06/2020 - 10/2023]
 > **Role:** Full Stack Contributor | **Tech:** MERN
 - Freelance Full Stack Developer delivering end-to-end web solutions, including interactive SEO dashboards, responsive business websites with product & inventory management, and e-commerce backends with GraphQL for optimized API performance and personalized recommendations.
 
