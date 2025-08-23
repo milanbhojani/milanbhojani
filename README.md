@@ -50,9 +50,7 @@ I'm a passionate **Web Developer** with over **years of hands-on experience** in
 
 ## 📫 Get in Touch
 
-- **📧 Email:** milanbhojani2002@gmail.com
 - **🔗 Portfolio/GitHub:** [github.com/milanbhojani](https://github.com/milanbhojani)
-- **💼 LinkedIn:** [linkedin.com/in/milan-bhojani-889777234](https://linkedin.com/in/milan-bhojani-889777234)
 
 ---
 
