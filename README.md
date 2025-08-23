@@ -7,7 +7,7 @@
 
 ---
 
-I'm a passionate **Web Developer** with over **2 years of hands-on experience** in building full-stack applications using the **MERN stack**. I specialize in crafting responsive, high-performance UIs and scalable backends, with expertise in **CI/CD pipelines**, **microfrontend architecture**, and **Google Cloud API integrations**.
+I'm a passionate **Web Developer** with over **years of hands-on experience** in building full-stack applications using the **MERN stack**. I specialize in crafting responsive, high-performance UIs and scalable backends, with expertise in **CI/CD pipelines**, **microfrontend architecture**, and **Google Cloud API integrations**.
 
 ---
 
@@ -19,20 +19,6 @@ I'm a passionate **Web Developer** with over **2 years of hands-on experience** 
 - **Tools & DevOps:** Git, GitHub Actions, GitLab CI/CD, Google Cloud Console, Postman
 - **Architecture:** Microfrontend
 - **Other:** Figma to Code Conversion, Performance Optimization
-
----
-
-## 💼 Experience
-
-### 🚀 Zechrome Technologies (2023–Present)
-- Built dynamic, responsive UIs from Figma designs using React.
-- Developed and maintained CI/CD pipelines for production deployment.
-- Worked on **microfrontend-based** architecture for modular web apps.
-
-### 🌍 CHEFE (Portugal – Remote | 2024)
-- Contributed to UI development for a social food-sharing platform.
-- Participated in startup pitching events (Web Summit, Djassi Africa).
-- Automated deployments with CI/CD and improved app performance.
 
 ---
 
