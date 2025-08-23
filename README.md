@@ -76,14 +76,6 @@ Microfrontend | RAG Architecture | Figma to Code Conversion | Performance Optimi
 - **Portfolio:** [Vision Ananta](https://www.visionananta.com/)  
 - **GitHub:** [github.com/milanbhojani](https://github.com/milanbhojani)  
 
-
-## 🎓 Education & 📫 Get in Touch
-
-| **Education** | **Get in Touch** |
-|---------------|-----------------|
-| **B.Tech in Computer Engineering** – Charotar University – 8 CGPI<br>**Diploma in Computer Engineering** – GTU – 9.3 CGPI | **Portfolio:** [Vision Ananta](https://www.visionananta.com/)<br>**GitHub:** [github.com/milanbhojani](https://github.com/milanbhojani)<br>**LinkedIn:** [linkedin.com/in/milan-bhojani-889777234](https://linkedin.com/in/milan-bhojani-889777234) |
-
-
 ---
 
 _Thanks for visiting! Feel free to connect and collaborate on exciting projects._ 🚀
