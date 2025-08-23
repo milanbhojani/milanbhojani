@@ -2,7 +2,7 @@
 
 **Web Developer | MERN Stack | Full-Stack Engineer | Driving Innovation with AI & Agentic Solutions | Microfrontend | CI/CD Automation | Cloud Integration | Docker | Azure | Git**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://linkedin.com/in/milan-bhojani-889777234)](https://linkedin.com/in/milan-bhojani-889777234)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/milan-patel-07427a380/)](https://www.linkedin.com/in/milan-patel-07427a380/)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github&link=https://github.com/milanbhojani)](https://github.com/milanbhojani)
 
 ---
